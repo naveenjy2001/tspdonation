@@ -1,0 +1,21 @@
+html {
+height: 100%;
+}
+
+body {    
+    background: url('../images/img1.jpg') no-repeat center fixed;     
+    background-size: cover;
+    min-height: 100%;
+}
+.align-items-center {
+    justify-content: space-between;
+    text-align: center;
+}
+
+.about h3{
+    color: coral;
+}
+
+.about {
+    background-color: rgba(0, 0, 0, 0.5);
+}
